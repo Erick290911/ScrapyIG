@@ -100,3 +100,9 @@ if data:
     plt.show()
 else:
     print("No se generó ningún gráfico porque no hay datos suficientes.")
+
+#-------------------------------------------------------------------------------------------------
+#Link Video de Compilación:
+#https://uceedu-my.sharepoint.com/:v:/g/personal/empulamarinp_uce_edu_ec/EQnS41tIUXJIsL6DEyBfkS8BZOewIT5nyrfkhLPcEJHSjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EewiZP
+
+
